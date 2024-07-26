@@ -9,15 +9,22 @@ My immediate goal is to gain hands-on experience in data analysis, collaborate o
 🚀 Future Ambition:
 I aim to transition into a data scientist role where I can leverage machine learning and advanced analytics to solve complex problems. I am committed to ongoing learning and professional development to achieve this goal.
 
-🛠️ Skills:
+🛠️ Skills
+
 Programming Languages: Python, Java
+
 Data Analysis: Pandas, NumPy, SQL
+
 Data Visualization: Matplotlib, Seaborn, Tableau
 Machine Learning: Scikit-learn (beginner)
+
 Others: Excel, Power BI
+
 🌐 How to Reach Me
+
 LinkedIn: linkedin.com/in/vinit-george-674368231
 Email: vinitgeorge1@gmail.com
+
 📈 Projects:
 Here are some of the projects I've worked on:
 
