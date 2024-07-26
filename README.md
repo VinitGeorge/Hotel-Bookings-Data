@@ -12,11 +12,15 @@ I aim to transition into a data scientist role where I can leverage machine lear
 
 🛠️ Skills
 
-Programming Languages: Python, Java
-Data Analysis: Pandas, NumPy, SQL
-Data Visualization: Matplotlib, Seaborn, Tableau
-Machine Learning: Scikit-learn (beginner)
-Others: Excel, Power BI
+**Programming Languages**: Python, Java
+
+**Data Analysis**: Pandas, NumPy, SQL
+
+**Data Visualization**: Matplotlib, Seaborn, Tableau
+
+**Machine Learning**: Scikit-learn (beginner)
+
+**Others**: Excel, Power BI
 
 🌐 How to Reach Me
 
