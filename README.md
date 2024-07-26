@@ -1,5 +1,6 @@
 👋 Hello, I'm Vinit George
-🌟 About Me
+
+🌟 About Me:
 I am an aspiring data analyst with a passion for uncovering insights from data and transforming them into actionable strategies. With a background in statistics and computer science, I am eager to apply my analytical skills and continue growing in the field of data science.
 
 🎯 Current Goal:
