@@ -32,7 +32,7 @@ Deepening my understanding of machine learning algorithms
 Exploring advanced data visualization techniques
 Enhancing my knowledge of big data tools and technologies
 
-🤝 Collaboration
+🤝 Collaboration:
 I am open to collaboration on data analysis projects and any opportunities that can help me grow as a data analyst and future data scientist. Let's connect and create something amazing together!- 👋 Hi, I’m @VinitGeorge
 
 **Project Description**: Hotel Booking Cancellation Analysis
