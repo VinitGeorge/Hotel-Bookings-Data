@@ -36,7 +36,9 @@ Enhancing my knowledge of big data tools and technologies
 I am open to collaboration on data analysis projects and any opportunities that can help me grow as a data analyst and future data scientist. Let's connect and create something amazing together!- 👋 Hi, I’m @VinitGeorge
 
 **Project Description**: Hotel Booking Cancellation Analysis
+
 **Business Problem**:
+
 In recent years, both City Hotel and Resort Hotel have experienced high cancellation rates, leading to significant issues such as reduced revenue and suboptimal room utilization. The primary goal for both hotels is to reduce cancellation rates to improve revenue efficiency. This project aims to provide thorough business advice to address this problem by analyzing hotel booking cancellations and other factors affecting their business and yearly revenue generation.
 
 **Assumptions**:
@@ -48,16 +50,19 @@ The hotels are not currently using any of the suggested solutions.
 The most significant factor affecting revenue efficiency is booking cancellations.
 Cancellations result in vacant rooms for the booked duration.
 Clients cancel reservations in the same year they make them.
+
 **Research Questions**:
 
 What are the variables that affect hotel reservation cancellations?
 How can we reduce hotel reservation cancellations?
 How can hotels improve their pricing and promotional decisions?
+
 **Hypotheses**:
 
 Higher prices lead to more cancellations.
 Longer waiting lists increase the likelihood of cancellations.
 Most clients make reservations through offline travel agents.
+
 **Analysis and Findings**:
 
 The analysis shows that 37% of reservations are canceled, significantly impacting hotel revenue.
@@ -67,6 +72,7 @@ August has the highest number of confirmed and canceled reservations, while Janu
 Cancellations are more frequent when prices are highest.
 Portugal has the highest number of reservation cancellations.
 Online travel agencies account for 46% of reservations, while groups account for 27%. Only 4% of clients book directly.
+
 **Suggestions**:
 
 Pricing Strategy: Lower rates or provide discounts to reduce cancellations.
